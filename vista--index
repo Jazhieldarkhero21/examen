@@ -1,0 +1,21 @@
+<%-- 
+    Document   : index
+    Created on : 6 jun. 2022, 14:08:52
+    Author     : user
+--%>
+
+<%@page contentType="text/html" pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>JSP Page</title>
+        <%@include file="../WEB-INF/plantilla/head.jspf" %>    </head>
+    <body>
+        <%@include file="../WEB-INF/plantilla/head.jspf" %>    </head>
+    <h1>Home!</h1>
+    
+</body><link rel="stylesheet" href="css/bootstrap.min.css"/>
+
+<%@include file="../WEB-INF/plantilla/head.jspf" %>
+</html>
